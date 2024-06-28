@@ -15,8 +15,7 @@ Skills: Virtual Network (VNet) Deployment, Azure Active Directory (AAD) Implemen
 - 📫 How to reach me: www.linkedin.com/in/earleaconway 
 - ⚡ Fun fact: I'm Learning So Much! 
 
-https://th.bing.com/th/id/OIP.bzho1SVQr37gQYl_M4J4egHaCl?w=349&h=122&c=7&r=0&o=5&pid=1.7
-
+https://github.com/earleaconway/Cloud-Admin/blob/main/azure%20cloud%20administrator%20(1).pdf
 
 
 
