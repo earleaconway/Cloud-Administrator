@@ -6,8 +6,6 @@ I'm Earle and welcome to my Azure Cloud Administration Projects repository! This
 
 ![image](https://github.com/earleaconway/Cloud-Admin/assets/170281247/76073a86-ec5e-46e3-8acc-82225c674889)
 
-I'm Earle and welcome to my Azure Cloud Administration Projects repository! This collection highlights my expertise in managing Azure services through various hands-on projects. Key projects include VNet deployment, Azure AD implementation, VM management, storage solutions, automation, monitoring, App Services, CI/CD Pipelines, and disaster recovery
-
 Skills: Virtual Network (VNet) Deployment, Azure Active Directory (AAD) Implementation, Azure Virtual Machines (VMs) Management, Azure Storage Solutions, Azure Kubernetes Service (AKS) Deployment, Azure Automation, Azure Monitoring and Management, Azure App Service Deployment, Azure DevOps for CI/CD, and Disaster Recovery Plan
 
 - 🔭 I’m currently working on Azure Admin Projects 
