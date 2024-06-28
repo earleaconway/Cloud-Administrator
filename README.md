@@ -16,7 +16,7 @@ Skills: Virtual Network (VNet) Deployment, Azure Active Directory (AAD) Implemen
 - ⚡ Fun fact: I'm Learning So Much! 
 
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.gif' alt='github' height='40'>](https://github.com/earleaconway" width=256/>
+[<img src=["https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.gif' alt='github' height='40'>](https://github.com/earleaconway"](https://github.com/earleaconway/Cloud-Admin/blob/main/Tech%20GIF.gif) width=256/>
 
 
 
