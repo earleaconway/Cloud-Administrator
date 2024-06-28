@@ -8,7 +8,7 @@ I'm Earle and welcome to my Azure Cloud Administration Projects repository! This
 #### I Am A Azure Cloud Administrator
 ### Hi there 👋, My Name Is Earle
 #### I Am A Azure Cloud Administrator
-[![I Am A Azure Cloud Administrator]https://media.licdn.com/dms/image/D4E16AQGObtegJ5U3ww/profile-displaybackgroundimage-shrink_350_1400/0/1719595740556?e=1724889600&v=beta&t=JbNyNKYLO54xhbEuSa1JtfChrKng_l967fTmP-ZPtjk
+![image](https://github.com/earleaconway/Cloud-Admin/assets/170281247/76073a86-ec5e-46e3-8acc-82225c674889)
 
 I'm Earle and welcome to my Azure Cloud Administration Projects repository! This collection highlights my expertise in managing Azure services through various hands-on projects. Key projects include VNet deployment, Azure AD implementation, VM management, storage solutions, automation, monitoring, App Services, CI/CD Pipelines, and disaster recovery
 
