@@ -18,8 +18,6 @@ Skills: Virtual Network (VNet) Deployment, Azure Active Directory (AAD) Implemen
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/earleaconway)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/earleaconway/)  
 
-https://www.bing.com/th/id/OGC.178817246e4d06d1c7b50c842aea2a0a?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2f3oFzmrqRPhYnFg9oGs%2fsource.gif&ehk=XNzTin4MKPNpWPkXXK6e3SS5IJvMTJZG%2bAuL6RrHzWI%3d
-
 
 
 
