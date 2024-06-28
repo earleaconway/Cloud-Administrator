@@ -20,7 +20,7 @@ Skills: Virtual Network (VNet) Deployment, Azure Active Directory (AAD) Implemen
 
 ![image](https://github.com/earleaconway/Cloud-Admin/assets/170281247/05bac03b-9967-4800-9ff5-ffa75d6c8c6f)
 
-
+Tech GIF.gif
 
 
 
