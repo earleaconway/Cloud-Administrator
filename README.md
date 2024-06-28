@@ -17,8 +17,36 @@ Skills: Virtual Network (VNet) Deployment, Azure Active Directory (AAD) Implemen
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/earleaconway)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/earleaconway/)  
+![image](https://github.com/earleaconway/Cloud-Admin/assets/170281247/76073a86-ec5e-46e3-8acc-82225c674889)
+### Hi There 👋🏼
+
+I'm Earle and welcome to my Azure Cloud Administration Projects repository! This collection highlights my expertise in managing Azure services through various hands-on projects. Key projects include Virtual Network (VNet) Deployment, Azure Active Directory (AAD) Implementation, Azure Virtual Machines (VMs) Management, Azure Storage Solutions, Azure Kubernetes Service (AKS) Deployment, Azure Automation, Azure Monitoring and Management, Azure App Service Deployment, Azure DevOps for CI/CD, and Disaster Recovery Plan.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=earleaconway)
+
+Skills: Virtual Network (VNet) Deployment, Azure Active Directory (AAD) Implementation, Azure Virtual Machines (VMs) Management, Azure Storage Solutions, Azure Kubernetes Service (AKS) Deployment, Azure Automation, Azure Monitoring and Management, Azure App Service Deployment, Azure DevOps for CI/CD, and Disaster Recovery Plan
+
+- 🔭 I’m currently working on Azure Admin Projects 
+- 🌱 I’m currently learning Everything ITSA ( Information Technology Security and Administration) 
+- 👯 I’m looking to collaborate on Azure Cloud Projects For Admins 
+- 🤔 I’m looking for help with Azure Cloud Admin Projects 
+- 💬 Ask me about What I'm Currently Working On 
+- 📫 How to reach me: www.linkedin.com/in/earleaconway 
+- ⚡ Fun fact: I'm Learning So Much! 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/earleaconway)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/earleaconway/)  
 
 [https://github.com/earleaconway/Cloud-Admin/blob/main/Tech%20GIF.gif](https://github.com/earleaconway/Cloud-Admin/blob/main/Tech%20GIF.gif?raw=true)
+
+
+
+
+
+
+
+
+
 
 
 
