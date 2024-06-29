@@ -12,7 +12,7 @@ I'm Earle and welcome to my Azure Cloud Administration Projects repository! This
 Skills: Virtual Network (VNet) Deployment, Azure Active Directory (AAD) Implementation, Azure Virtual Machines (VMs) Management, Azure Storage Solutions, Azure Kubernetes Service (AKS) Deployment, Azure Automation, Azure Monitoring and Management, Azure App Service Deployment, Azure DevOps for CI/CD, and Disaster Recovery Plan
 
 - 🔭 I’m currently working on Azure Admin Projects 
-- 🌱 I’m currently learning Everything ITSA ( Information Technology Security and Administration) 
+- 🌱 I’m currently learning Everything ITSA ( Information Technology Security and Administration) @ MYCOMPUTERCAREER
 - 👯 I’m looking to collaborate on Azure Cloud Projects For Admins 
 - 🤔 I’m looking for help with Azure Cloud Admin Projects 
 - 💬 Ask me about What I'm Currently Working On 
